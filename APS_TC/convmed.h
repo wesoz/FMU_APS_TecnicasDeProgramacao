@@ -5,5 +5,7 @@ void horasParaMinSec(int hr, int *min, int *seg);
 void kmHoraParaMetrosSegundo(float *vel_media);
 void caloriaParaJoule(float *qua_calor);
 void litrosParaMetrosCubicos(int litros, float *metros3);
+void gramaParaKg(float *conversao);
+void cmQuadradosParaMetrosQuadrados(float *valor);
 
 #endif
